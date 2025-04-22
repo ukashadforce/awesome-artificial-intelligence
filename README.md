@@ -22,7 +22,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 12. [Competitions](#competitions)
 13. [Newsletters](#newsletters)
 14. [Misc](#misc)
-
+15. [Learning](#learning)
 ## Tools
 
 ### Chat 
